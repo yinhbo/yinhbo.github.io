@@ -21,7 +21,7 @@ repository               : "yinhbo/yinhbo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "Hongbo Yin (印泓博)"
   pronouns         : # example: "she/her"  
   bio              : "PhD student @ HKUST(GZ)"
