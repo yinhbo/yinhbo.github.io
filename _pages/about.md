@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
-====
 I am currently a second-year Ph.D. student in the [DB4AI](https://cse.hkust.edu.hk/db4ai/) group at [The Hong Kong University of Science and Technology (Guangzhou)] supervised by Professor [Lei Chen](https://cse.hkust.edu.hk/~leichen/) (IEEE Fellow). I obtained my Master's degree (2020-2023) from the [School of Computer Science](https://scs.bupt.edu.cn/) at [Beijing University of Posts and Technology (BUPT)](https://www.bupt.edu.cn/), where I was advised by Professor [Yingxia Shao](https://shaoyx.github.io/). Prior to this, I received my Bachelor's degree (2016-2020) from the [School of Computer Science & Engineering](https://www2.scut.edu.cn/cs/) at [South China University of Technology (SCUT)](https://www.scut.edu.cn/en).
 
 
